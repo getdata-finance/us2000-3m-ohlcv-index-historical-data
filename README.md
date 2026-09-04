@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `US2000_3m.csv` (18,481 rows, `2026-07-07` -> `2026-09-02`, 1.69 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us2000)** — **922,480** `3m` rows (full `1m`: 2,762,553), **11 timeframes**, `2018-10-26` -> `2026-09-02`.
+> **Sample on GitHub** · `US2000_3m.csv` (18,480 rows, `2026-07-07` -> `2026-09-02`, 1.69 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us2000)** — **922,480** `3m` rows (full `1m`: 2,717,412), **11 timeframes**, `2018-10-26` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Russell 2000 · Index | Russell 2000 · Index |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,481 | **922,480** |
+| 3m rows | 18,480 | **922,480** |
 | Size | 1.69 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us2000) |
 | Period | `2026-07-07` -> `2026-09-02` | `2018-10-26` -> `2026-09-02` |
 | File | `US2000_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/us2000) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`US2000_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 2985.32 | 2986.09 | 2980.89 | 2982.22 | 2535 |
 | 2026-07-07T19:03:00+00:00 | 2982.22 | 2983.54 | 2980.72 | 2982.97 | 2075 |
 | 2026-07-07T19:06:00+00:00 | 2982.97 | 2985.08 | 2980.32 | 2980.73 | 2044 |
 | 2026-07-07T19:09:00+00:00 | 2980.73 | 2980.82 | 2978.69 | 2979.99 | 1805 |
 | 2026-07-07T19:12:00+00:00 | 2979.99 | 2981.54 | 2979.14 | 2979.69 | 1651 |
+| 2026-07-07T19:15:00+00:00 | 2979.69 | 2980.17 | 2977.78 | 2978.72 | 1711 |
 
 **Last rows**
 
